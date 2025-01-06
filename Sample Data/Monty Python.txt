@@ -1,0 +1,5 @@
+Monty Python
+-1565925398#False#Choose the right answer.#True#False###1
+-234378232#True#What must you say in order to use the Holy Hand Grenade of Antioch?#Frag out!#One... Two... Five! (Three sir) Three!#Say nothing#Yeet!#1
+835124931#True#What is the airspeed velocity of an unladen Swallow?#I don't know that!#Approximately 25 mph#Is it an African or European Swallow?#It depends on the health of the Swallow#2
+2090620524#True#Who is NOT a member of the Knights of the Round Table#Sir Bedevere the Wise#Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot#Sir Galahad the Pure#Sir Archibald the Absent-Minded#3

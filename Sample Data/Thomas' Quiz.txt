@@ -1,0 +1,8 @@
+Thomas' Quiz
+-1565925398#False#Choose the right answer.#True#False###1
+-1145441414#False#Dressing is better than stuffing.#True#False###1
+-683329311#True#In German, which is the correct translation for "The"?#Der#Die#Das#All of the above#3
+-389668623#False#Select the boolean value that the following code evaluates to: 
+3*3 + 2 - 2*2 == 7#True#False###0
+0#True#What is Thomas' favorite color?#Red#Green#Blue#Orange#1
+1774603976#True#Which is NOT a real programming language?#Shakespeare#COBOL#Dartlock#NoSQL#2

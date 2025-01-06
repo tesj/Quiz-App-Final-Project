@@ -1,0 +1,17 @@
+-1968449861#True#Which of the following is an example of AI used in daily life?#Email spam filters#Electric cars#Television remote controls#GPS navigation systems#0
+-1565925398#False#Choose the right answer.#True#False###1
+-1145441414#False#Dressing is better than stuffing.#True#False###1
+-683329311#True#In German, which is the correct translation for "The"?#Der#Die#Das#All of the above#3
+-473322788#True#What is the Turing Test used for?#To determine if a machine can mimic human behavior convincingly#To measure the efficiency of AI algorithms#To evaluate the speed of a machine's processing#To check if a machine can solve complex mathematical problems.#0
+-444999643#True#Who is considered the "father" of artificial intelligence?#Alan Turing#John McCarthy#Elon Musk#Sam Altman#1
+-234378232#True#What must you say in order to use the Holy Hand Grenade of Antioch?#Frag out!#One... Two... Five! (Three sir) Three!#Say nothing#Yeet!#1
+-80124506#False#Deep learning is a subset of machine learning that uses neural networks with many layers.#True#False###0
+0#True#What is Thomas' favorite color?#Red#Green#Blue#Orange#1
+649138393#False#The concept of artificial general intelligence refers to a machine's ability to perform any intellectual task that a human can do.#True#False###0
+835124931#True#What is the airspeed velocity of an unladen Swallow?#I don't know that!#Approximately 25 mph#Is it an African or European Swallow?#It depends on the health of the Swallow#2
+1035332644#False#Artificial intelligence is only used in the field of robotics.#True#False###1
+1463099348#True#What is "machine learning" in the context of AI?#The ability to learn from data and improve over time without explicit programming#A robot's ability to perform human-like tasks#The process of teaching a computer to recognize images#A technique used to simulate human emotions#0
+1560580747#False#AI can be classified into three categories: narrow AI, general AI, and superintelligent AI.#True#False###0
+1774603976#True#Which is NOT a real programming language?#Shakespeare#COBOL#Dartlock#NoSQL#2
+1854357277#True#What is the primary goal of natural language processing in AI?#To allow machines to recognize objects#To allow machines to process and understand human language#To help AI systems navigate physical environments#To simulate human speech#1
+2090620524#True#Who is NOT a member of the Knights of the Round Table#Sir Bedevere the Wise#Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot#Sir Galahad the Pure#Sir Archibald the Absent-Minded#3
